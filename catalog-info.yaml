@@ -4,7 +4,7 @@ metadata:
   name: flask-micros-bs5
   description: flask-micros-bs5
   annotations:
-    github.com/project-slug: /
+    github.com/project-slug: rockesh7/flask-micros-bs5
 spec:
   type: service
   owner: Rockesh
