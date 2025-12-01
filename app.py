@@ -7,7 +7,7 @@ request_count = Counter('request_count', 'Total request count')
 @app.route('/')
 def home():
     request_count.inc()
-    return "Hello from flask-micros-bs5 service!"
+    return "Hello Rockesh from flask-micros-bs5 service!"
 
 @app.route('/metrics')
 def metrics():
